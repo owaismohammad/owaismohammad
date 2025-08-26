@@ -1,6 +1,6 @@
 # 💫 About Me:  
 *Mohammad Owais*  
-3rd Year Electronics Engineering  
+IIIrd Year Electronics Engineering  
 Jamia Millia Islamia, New Delhi  
 <br>
 passionate about machine learning?! Yes I am,
@@ -29,7 +29,6 @@ Outside my technical work, I’m passionate about writing, public speaking, and 
 
 ---
 
-## 💻 Tech Stack
 ## 💻 Skills & Tech Stack
 
 ### 🖥 Languages
