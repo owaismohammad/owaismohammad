@@ -5,9 +5,10 @@ Jamia Millia Islamia, New Delhi
 <br>
 passionate about machine learning?! Yes I am,
 <br>
-passionate about electronics?! Yes I am.
+passionate about electronics ?! Yes I am.
 <br>
-Struggling disastrously in both? Oh dear god T_T — an obvious yes! I love diving into cool machine learning and deep learning research, exploring computer vision and large language models, and uncovering connections between electronics and ML, But that doesn’t stop me from being a complete douche in all of them. I struggle, I learn, I forget, I feel envious of others being better than me, I relearn — that’s how the cycle goes. 
+passionat about understanding systems from first principles ?! Yes I am.
+Struggling disastrously in all? Oh dear god T_T — an obvious yes! I love diving into cool machine learning and deep learning research, exploring computer vision and large language models, and uncovering connections between electronics and ML, But that doesn’t stop me from being a complete douche in all of them. I struggle, I learn, I forget, I feel envious of others being better than me, I relearn — that’s how the cycle goes. 
 <br>
 Along the way, I’m developing an interest in computer architecture and GPU programming, always driven to understand concepts from first principles.
 <br>
@@ -15,6 +16,8 @@ Outside my technical work, I’m passionate about writing, public speaking, and 
 
 ## 🌐Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muffBozo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/owaiszs_/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-owais-627a2626a)
 
 ---
 
@@ -34,9 +37,9 @@ Outside my technical work, I’m passionate about writing, public speaking, and 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=owaismohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+<!-- </p>
+ -->
+<!-- <p align="center"> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=owaismohammad&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
