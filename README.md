@@ -30,15 +30,37 @@ Outside my technical work, I’m passionate about writing, public speaking, and 
 ---
 
 ## 💻 Tech Stack
+## 💻 Skills & Tech Stack
+
+### 🖥 Languages
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+### 🧰 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6E1A?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-%23FF3C00?style=for-the-badge&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 🌐 Technologies & Domains
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-%23F7931E?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-%23FF6F00?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer_Vision-%23white?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-%230077B5?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/LLMs-%236600FF?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Silvaco-%23FF6600?style=for-the-badge" alt="Silvaco" />
+</p>
+
 
 ---
 
