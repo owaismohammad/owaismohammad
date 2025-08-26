@@ -14,10 +14,18 @@ Along the way, I’m developing an interest in computer architecture and GPU pro
 <br>
 Outside my technical work, I’m passionate about writing, public speaking, and event management. I’ve organized international tech symposiums and earned accolades in debates, declamation, poetry, theatre, and filmmaking. I thrive in collaborative environments, combining creativity and problem-solving to deliver impactful projects.
 
-## 🌐Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muffBozo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/owaiszs_/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-owais-627a2626a)
+## 🌐 Socials
+<p align="left">
+  <a href="https://x.com/muffBozo">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/owaiszs_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-owais-627a2626a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
