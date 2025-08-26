@@ -7,7 +7,8 @@ passionate about machine learning?! Yes I am,
 <br>
 passionate about electronics ?! Yes I am.
 <br>
-passionat about understanding systems from first principles ?! Yes I am. <br>
+passionat about understanding systems from first principles ?! Yes I am. 
+<br>
 Struggling disastrously in all? Oh dear god T_T — an obvious yes! I love diving into cool machine learning and deep learning research, exploring computer vision and large language models, and uncovering connections between electronics and ML, But that doesn’t stop me from being a complete douche in all of them. I struggle, I learn, I forget, I feel envious of others being better than me, I relearn — that’s how the cycle goes. 
 <br>
 Along the way, I’m developing an interest in computer architecture and GPU programming, always driven to understand concepts from first principles.
