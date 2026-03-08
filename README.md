@@ -1,20 +1,6 @@
-# 💫 About Me:  
-*Mohammad Owais*  
-IIIrd Year Electronics Engineering  
-Jamia Millia Islamia, New Delhi  
-<br>
-passionate about machine learning?! Yes I am,
-<br>
-passionate about electronics ?! Yes I am.
-<br>
-passionat about understanding systems from first principles ?! Yes I am. 
-<br>
-Struggling disastrously in all? Oh dear god T_T — an obvious yes! I love diving into cool machine learning and deep learning research, exploring computer vision and large language models, and uncovering connections between electronics and ML, But that doesn’t stop me from being a complete douche in all of them. I struggle, I learn, I forget, I feel envious of others being better than me, I relearn — that’s how the cycle goes. 
-<br>
-Along the way, I’m developing an interest in computer architecture and GPU programming, always driven to understand concepts from first principles.
-<br>
-Outside my technical work, I’m passionate about writing, public speaking, and event management. I’ve organized international tech symposiums and earned accolades in debates, declamation, poetry, theatre, and filmmaking. I thrive in collaborative environments, combining creativity and problem-solving to deliver impactful projects.
-
+A research oriented engineer driven by a first principles approach to Multimodal Machine Learning and Neural Computation. Rooted in the philosophy that even the most complex physical and biological phenomena can be captured through mathematical representation, I strive to uncover their latent essence. This guiding principle has shaped my journey: from ML-based surrogate modeling in TCAD, through the rigors of implementing research papers from first principles, to my current pursuit of Video Understanding and Brain-AI alignment.
+As a published researcher, I specialize in building cross-modal systems that bridge diverse data streams to enable natural language interaction with visual temporal data, with a primary emphasis on developing robust Video Understanding frameworks.
+I aim to explore reconstructing perceptual experiences from neural activity, thereby seeking to connect human sensory processing with artificial intelligence architectures. My research interests also include making robust low-compute video understanding systems and understanding the dimensions of AI with an ethical lens.
 ## 🌐 Socials
 <p align="left">
   <a href="https://x.com/muffBozo">
@@ -64,18 +50,5 @@ Outside my technical work, I’m passionate about writing, public speaking, and 
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=owaismohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-<!-- </p>
- -->
-<!-- <p align="center"> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=owaismohammad&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaismohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
